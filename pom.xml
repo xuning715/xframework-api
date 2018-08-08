@@ -9,7 +9,6 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>xframework-api</artifactId>
-    <packaging>jar</packaging>
     <name>xframework-api</name>
     <description>xframework-api</description>
 
