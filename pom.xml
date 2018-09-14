@@ -9,8 +9,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>xframework-api</artifactId>
-    <name>xframework-api</name>
-    <description>xframework-api</description>
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
