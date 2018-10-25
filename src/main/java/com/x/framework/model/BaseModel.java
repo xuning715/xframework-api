@@ -2,13 +2,13 @@ package com.x.framework.model;
 
 import java.io.Serializable;
 
-public class BaseObject implements Serializable {
-    
+public class BaseModel implements Serializable {
+
     private Integer pageIndex;
-    
+
     private Integer pageSize;
 
-    public BaseObject() {
+    public BaseModel() {
 
     }
 
