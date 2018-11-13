@@ -1,4 +1,4 @@
-package com.x.security.controller;
+package com.x.framework.model;
 
 import java.io.Serializable;
 
